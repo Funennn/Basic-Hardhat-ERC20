@@ -1,5 +1,5 @@
 # Basic-Hardhat-ERC20
-Simple basic hardhat for fn `deposit` &amp; `withdraw` ERC20 token | USDT, ETC
+Simple basic hardhat for fn `deposit` &amp; `withdraw` ERC20 anytoken 
 
 The project was inspired by [@blockmancodes](https://github.com/BlockmanCodes)
 
