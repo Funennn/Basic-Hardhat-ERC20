@@ -1,7 +1,7 @@
 # Basic-Hardhat-ERC20
 Simple basic hardhat for fn `deposit` &amp; `withdraw` ERC20 token | USDT, ETC
 
-The project was insipred by [@blockmancodes](https://gist.github.com/BlockmanCodes)
+The project was inspired by [@blockmancodes](https://github.com/BlockmanCodes)
 
 So i rewrite and do some experimental with the number
 
